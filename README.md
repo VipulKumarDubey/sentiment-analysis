@@ -29,8 +29,7 @@ Likert distribution:
 → **Priority matrix**: fix delivery SLA & price-perception messaging first.
 
 ## How to Run
-Open in Colab (zero install):  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/retail-sentiment-analyzer/blob/main/Sentiment_Analysis_Lifestyle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VipulKumarDubey/retail-sentiment-analyzer/blob/main/Sentiment_Analysis_Lifestyle.ipynb)
 
 Or local:
 ```bash
