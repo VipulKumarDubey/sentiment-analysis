@@ -30,7 +30,6 @@ Likert distribution:
 
 ## How to Run
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VipulKumarDubey/retail-sentiment-analyzer/blob/main/Sentiment_Analysis_Lifestyle.ipynb)
-
 Or local:
 ```bash
 pip install -r requirements.txt
