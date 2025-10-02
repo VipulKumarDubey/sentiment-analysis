@@ -1,0 +1,14 @@
+--------------------------------------------------
+requirements.txt (trimmed)
+------------------------------------------------```
+pandas
+numpy
+nltk
+vaderSentiment
+transformers
+torch
+scipy
+deep-translator
+emoji
+contractions
+spacy
